@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paul Su
+### My name is Paul Su
 
 -🔭I’m currently studying at NCU
 

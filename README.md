@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My name is Paul Su
-+ 🔭I’m currently studying at NCU
++ 🔭I’m currently studying at **NCU**
 + 🌱 I’m currently learning Python
 + 📫 How to reach me: 
   1. e-mail:paul104128@gmail.com
